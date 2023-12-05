@@ -8,7 +8,7 @@ This repository contains the original codes and data in *Discovery of Novel SOS1
 * Python 3.7
 * Numpy 1.21.6
 * Pandas 1.1.3
-* RDKit 2019.09.3
+* RDKit 2020.09.1.0
 * scikit-learn 1.0.2
 * matplotlib 3.5.1
 * jupyterlab 3.5.3
