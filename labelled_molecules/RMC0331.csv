@@ -1,0 +1,2 @@
+Compound_ID,SMILES,Calculated pChEMBL,GTP rel. IC50 [nM]
+RMC0331,O=C(N1CC2=NC(Cl)=NC(N[C@@H](C3=CC(C(F)(F)F)=CC(N)=C3)C)=C2C1)C4(OC)CCOCC4,7.15,71
